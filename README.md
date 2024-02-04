@@ -1,8 +1,8 @@
-<h2 align = center >This is my implementation in Java to the Rinha de BackEnd, a friendly challenge between brazillian developers on twitter haha.</h2>
+<h2 align = center >This is my implementation in Java for Rinha de BackEnd, a friendly challenge between brazillian developers on twitter haha.</h2>
 <br>
-# Instruções e Regras para Rinha de Backend - Edição 2023 Q3
 
-![logo da rinha de backend](/misc/logo.jpg)
+Link para o repositório do evento:  https://github.com/zanfranceschi/rinha-de-backend-2023-q3/tree/main
+# Instruções e Regras para Rinha de Backend - Edição 2023 Q3
 
 ## Resumo
 
